@@ -1,0 +1,30 @@
+/home/apache/Documentos/facultad/clase 23.03/bin/Debug/net7.0/clase 23.03
+/home/apache/Documentos/facultad/clase 23.03/bin/Debug/net7.0/clase 23.03.deps.json
+/home/apache/Documentos/facultad/clase 23.03/bin/Debug/net7.0/clase 23.03.runtimeconfig.json
+/home/apache/Documentos/facultad/clase 23.03/bin/Debug/net7.0/clase 23.03.dll
+/home/apache/Documentos/facultad/clase 23.03/bin/Debug/net7.0/clase 23.03.pdb
+/home/apache/Documentos/facultad/clase 23.03/obj/Debug/net7.0/clase 23.03.csproj.AssemblyReference.cache
+/home/apache/Documentos/facultad/clase 23.03/obj/Debug/net7.0/clase 23.03.GeneratedMSBuildEditorConfig.editorconfig
+/home/apache/Documentos/facultad/clase 23.03/obj/Debug/net7.0/clase 23.03.AssemblyInfoInputs.cache
+/home/apache/Documentos/facultad/clase 23.03/obj/Debug/net7.0/clase 23.03.AssemblyInfo.cs
+/home/apache/Documentos/facultad/clase 23.03/obj/Debug/net7.0/clase 23.03.csproj.CoreCompileInputs.cache
+/home/apache/Documentos/facultad/clase 23.03/obj/Debug/net7.0/clase 23.03.dll
+/home/apache/Documentos/facultad/clase 23.03/obj/Debug/net7.0/refint/clase 23.03.dll
+/home/apache/Documentos/facultad/clase 23.03/obj/Debug/net7.0/clase 23.03.pdb
+/home/apache/Documentos/facultad/clase 23.03/obj/Debug/net7.0/clase 23.03.genruntimeconfig.cache
+/home/apache/Documentos/facultad/clase 23.03/obj/Debug/net7.0/ref/clase 23.03.dll
+/home/apache/Documentos/facultad/clase23.03/bin/Debug/net7.0/clase 23.03
+/home/apache/Documentos/facultad/clase23.03/bin/Debug/net7.0/clase 23.03.deps.json
+/home/apache/Documentos/facultad/clase23.03/bin/Debug/net7.0/clase 23.03.runtimeconfig.json
+/home/apache/Documentos/facultad/clase23.03/bin/Debug/net7.0/clase 23.03.dll
+/home/apache/Documentos/facultad/clase23.03/bin/Debug/net7.0/clase 23.03.pdb
+/home/apache/Documentos/facultad/clase23.03/obj/Debug/net7.0/clase 23.03.csproj.AssemblyReference.cache
+/home/apache/Documentos/facultad/clase23.03/obj/Debug/net7.0/clase 23.03.GeneratedMSBuildEditorConfig.editorconfig
+/home/apache/Documentos/facultad/clase23.03/obj/Debug/net7.0/clase 23.03.AssemblyInfoInputs.cache
+/home/apache/Documentos/facultad/clase23.03/obj/Debug/net7.0/clase 23.03.AssemblyInfo.cs
+/home/apache/Documentos/facultad/clase23.03/obj/Debug/net7.0/clase 23.03.csproj.CoreCompileInputs.cache
+/home/apache/Documentos/facultad/clase23.03/obj/Debug/net7.0/clase 23.03.dll
+/home/apache/Documentos/facultad/clase23.03/obj/Debug/net7.0/refint/clase 23.03.dll
+/home/apache/Documentos/facultad/clase23.03/obj/Debug/net7.0/clase 23.03.pdb
+/home/apache/Documentos/facultad/clase23.03/obj/Debug/net7.0/clase 23.03.genruntimeconfig.cache
+/home/apache/Documentos/facultad/clase23.03/obj/Debug/net7.0/ref/clase 23.03.dll

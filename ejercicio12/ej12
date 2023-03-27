@@ -1,0 +1,8 @@
+ejercicio 12
+Articulo:
+    codigo
+    numero
+    costo kg
+    gramos x u
+    % gastos indirectos
+    % rentabilidad
