@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Este Equipo\\Documents\\1. UBA - FCE\\1er Cuatri 2023\\Lenguajes y Algoritmos\\LyA_FCE_UBA\\ejercicio8\\lenguajesYalgoritmos.csproj": {}
+    "/home/apache/Documentos/facultad/lenguajesYalgoritmos/ejercicio8/lenguajesYalgoritmos.csproj": {}
   },
   "projects": {
-    "E:\\Este Equipo\\Documents\\1. UBA - FCE\\1er Cuatri 2023\\Lenguajes y Algoritmos\\LyA_FCE_UBA\\ejercicio8\\lenguajesYalgoritmos.csproj": {
+    "/home/apache/Documentos/facultad/lenguajesYalgoritmos/ejercicio8/lenguajesYalgoritmos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Este Equipo\\Documents\\1. UBA - FCE\\1er Cuatri 2023\\Lenguajes y Algoritmos\\LyA_FCE_UBA\\ejercicio8\\lenguajesYalgoritmos.csproj",
+        "projectUniqueName": "/home/apache/Documentos/facultad/lenguajesYalgoritmos/ejercicio8/lenguajesYalgoritmos.csproj",
         "projectName": "lenguajesYalgoritmos",
-        "projectPath": "E:\\Este Equipo\\Documents\\1. UBA - FCE\\1er Cuatri 2023\\Lenguajes y Algoritmos\\LyA_FCE_UBA\\ejercicio8\\lenguajesYalgoritmos.csproj",
-        "packagesPath": "C:\\Users\\agusr\\.nuget\\packages\\",
-        "outputPath": "E:\\Este Equipo\\Documents\\1. UBA - FCE\\1er Cuatri 2023\\Lenguajes y Algoritmos\\LyA_FCE_UBA\\ejercicio8\\obj\\",
+        "projectPath": "/home/apache/Documentos/facultad/lenguajesYalgoritmos/ejercicio8/lenguajesYalgoritmos.csproj",
+        "packagesPath": "/home/apache/.nuget/packages/",
+        "outputPath": "/home/apache/Documentos/facultad/lenguajesYalgoritmos/ejercicio8/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\agusr\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/apache/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,12 +48,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.2, 7.0.2]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
         }
       }
     }

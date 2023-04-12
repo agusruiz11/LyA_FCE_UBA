@@ -1,15 +1,17 @@
-C:\Users\gmplanci\Documents\Varios\TLA\Ejemplos\Guia 1\TLA20190314\TLA20190314\bin\Debug\TLA20190314.exe.config
-C:\Users\gmplanci\Documents\Varios\TLA\Ejemplos\Guia 1\TLA20190314\TLA20190314\bin\Debug\TLA20190314.exe
-C:\Users\gmplanci\Documents\Varios\TLA\Ejemplos\Guia 1\TLA20190314\TLA20190314\bin\Debug\TLA20190314.pdb
-C:\Users\gmplanci\Documents\Varios\TLA\Ejemplos\Guia 1\TLA20190314\TLA20190314\obj\Debug\TLA20190314.csprojAssemblyReference.cache
-C:\Users\gmplanci\Documents\Varios\TLA\Ejemplos\Guia 1\TLA20190314\TLA20190314\obj\Debug\TLA20190314.csproj.CoreCompileInputs.cache
-C:\Users\gmplanci\Documents\Varios\TLA\Ejemplos\Guia 1\TLA20190314\TLA20190314\obj\Debug\TLA20190314.exe
-C:\Users\gmplanci\Documents\Varios\TLA\Ejemplos\Guia 1\TLA20190314\TLA20190314\obj\Debug\TLA20190314.pdb
-E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\TLA20190314\TLA20190314\bin\Debug\TLA20190314.exe.config
-E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\TLA20190314\TLA20190314\bin\Debug\TLA20190314.exe
-E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\TLA20190314\TLA20190314\bin\Debug\TLA20190314.pdb
-E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\TLA20190314\TLA20190314\obj\Debug\TLA20190314.csproj.AssemblyReference.cache
-E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\TLA20190314\TLA20190314\obj\Debug\TLA20190314.csproj.SuggestedBindingRedirects.cache
-E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\TLA20190314\TLA20190314\obj\Debug\TLA20190314.csproj.CoreCompileInputs.cache
-E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\TLA20190314\TLA20190314\obj\Debug\TLA20190314.exe
-E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\TLA20190314\TLA20190314\obj\Debug\TLA20190314.pdb
+C:/Users/gmplanci/Documents/Varios/TLA/Ejemplos/Guia 1/TLA20190314/TLA20190314/bin/Debug/TLA20190314.exe.config
+C:/Users/gmplanci/Documents/Varios/TLA/Ejemplos/Guia 1/TLA20190314/TLA20190314/bin/Debug/TLA20190314.exe
+C:/Users/gmplanci/Documents/Varios/TLA/Ejemplos/Guia 1/TLA20190314/TLA20190314/bin/Debug/TLA20190314.pdb
+C:/Users/gmplanci/Documents/Varios/TLA/Ejemplos/Guia 1/TLA20190314/TLA20190314/obj/Debug/TLA20190314.csprojAssemblyReference.cache
+C:/Users/gmplanci/Documents/Varios/TLA/Ejemplos/Guia 1/TLA20190314/TLA20190314/obj/Debug/TLA20190314.csproj.CoreCompileInputs.cache
+C:/Users/gmplanci/Documents/Varios/TLA/Ejemplos/Guia 1/TLA20190314/TLA20190314/obj/Debug/TLA20190314.exe
+C:/Users/gmplanci/Documents/Varios/TLA/Ejemplos/Guia 1/TLA20190314/TLA20190314/obj/Debug/TLA20190314.pdb
+E:/Este Equipo/Documents/1. UBA - FCE/1er Cuatri 2023/Lenguajes y Algoritmos/TLA20190314/TLA20190314/bin/Debug/TLA20190314.exe.config
+E:/Este Equipo/Documents/1. UBA - FCE/1er Cuatri 2023/Lenguajes y Algoritmos/TLA20190314/TLA20190314/bin/Debug/TLA20190314.exe
+E:/Este Equipo/Documents/1. UBA - FCE/1er Cuatri 2023/Lenguajes y Algoritmos/TLA20190314/TLA20190314/bin/Debug/TLA20190314.pdb
+E:/Este Equipo/Documents/1. UBA - FCE/1er Cuatri 2023/Lenguajes y Algoritmos/TLA20190314/TLA20190314/obj/Debug/TLA20190314.csproj.AssemblyReference.cache
+E:/Este Equipo/Documents/1. UBA - FCE/1er Cuatri 2023/Lenguajes y Algoritmos/TLA20190314/TLA20190314/obj/Debug/TLA20190314.csproj.SuggestedBindingRedirects.cache
+E:/Este Equipo/Documents/1. UBA - FCE/1er Cuatri 2023/Lenguajes y Algoritmos/TLA20190314/TLA20190314/obj/Debug/TLA20190314.csproj.CoreCompileInputs.cache
+E:/Este Equipo/Documents/1. UBA - FCE/1er Cuatri 2023/Lenguajes y Algoritmos/TLA20190314/TLA20190314/obj/Debug/TLA20190314.exe
+E:/Este Equipo/Documents/1. UBA - FCE/1er Cuatri 2023/Lenguajes y Algoritmos/TLA20190314/TLA20190314/obj/Debug/TLA20190314.pdb
+/home/apache/Documentos/facultad/lenguajesYalgoritmos/TLA20190314/TLA20190314/obj/Debug/TLA20190314.exe
+/home/apache/Documentos/facultad/lenguajesYalgoritmos/TLA20190314/TLA20190314/obj/Debug/TLA20190314.pdb
