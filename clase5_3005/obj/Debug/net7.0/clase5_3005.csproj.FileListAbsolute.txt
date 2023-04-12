@@ -1,0 +1,15 @@
+/home/apache/Documentos/facultad/lenguajesYalgoritmos/clase5_3005/bin/Debug/net7.0/clase5_3005
+/home/apache/Documentos/facultad/lenguajesYalgoritmos/clase5_3005/bin/Debug/net7.0/clase5_3005.deps.json
+/home/apache/Documentos/facultad/lenguajesYalgoritmos/clase5_3005/bin/Debug/net7.0/clase5_3005.runtimeconfig.json
+/home/apache/Documentos/facultad/lenguajesYalgoritmos/clase5_3005/bin/Debug/net7.0/clase5_3005.dll
+/home/apache/Documentos/facultad/lenguajesYalgoritmos/clase5_3005/bin/Debug/net7.0/clase5_3005.pdb
+/home/apache/Documentos/facultad/lenguajesYalgoritmos/clase5_3005/obj/Debug/net7.0/clase5_3005.csproj.AssemblyReference.cache
+/home/apache/Documentos/facultad/lenguajesYalgoritmos/clase5_3005/obj/Debug/net7.0/clase5_3005.GeneratedMSBuildEditorConfig.editorconfig
+/home/apache/Documentos/facultad/lenguajesYalgoritmos/clase5_3005/obj/Debug/net7.0/clase5_3005.AssemblyInfoInputs.cache
+/home/apache/Documentos/facultad/lenguajesYalgoritmos/clase5_3005/obj/Debug/net7.0/clase5_3005.AssemblyInfo.cs
+/home/apache/Documentos/facultad/lenguajesYalgoritmos/clase5_3005/obj/Debug/net7.0/clase5_3005.csproj.CoreCompileInputs.cache
+/home/apache/Documentos/facultad/lenguajesYalgoritmos/clase5_3005/obj/Debug/net7.0/clase5_3005.dll
+/home/apache/Documentos/facultad/lenguajesYalgoritmos/clase5_3005/obj/Debug/net7.0/refint/clase5_3005.dll
+/home/apache/Documentos/facultad/lenguajesYalgoritmos/clase5_3005/obj/Debug/net7.0/clase5_3005.pdb
+/home/apache/Documentos/facultad/lenguajesYalgoritmos/clase5_3005/obj/Debug/net7.0/clase5_3005.genruntimeconfig.cache
+/home/apache/Documentos/facultad/lenguajesYalgoritmos/clase5_3005/obj/Debug/net7.0/ref/clase5_3005.dll
