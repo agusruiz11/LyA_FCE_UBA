@@ -28,3 +28,18 @@
 /home/apache/Documentos/facultad/lenguajesYalgoritmos/ejercicio8/obj/Debug/net7.0/lenguajesYalgoritmos.pdb
 /home/apache/Documentos/facultad/lenguajesYalgoritmos/ejercicio8/obj/Debug/net7.0/lenguajesYalgoritmos.genruntimeconfig.cache
 /home/apache/Documentos/facultad/lenguajesYalgoritmos/ejercicio8/obj/Debug/net7.0/ref/lenguajesYalgoritmos.dll
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicio8\bin\Debug\net7.0\lenguajesYalgoritmos.exe
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicio8\bin\Debug\net7.0\lenguajesYalgoritmos.deps.json
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicio8\bin\Debug\net7.0\lenguajesYalgoritmos.runtimeconfig.json
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicio8\bin\Debug\net7.0\lenguajesYalgoritmos.dll
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicio8\bin\Debug\net7.0\lenguajesYalgoritmos.pdb
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicio8\obj\Debug\net7.0\lenguajesYalgoritmos.csproj.AssemblyReference.cache
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicio8\obj\Debug\net7.0\lenguajesYalgoritmos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicio8\obj\Debug\net7.0\lenguajesYalgoritmos.AssemblyInfoInputs.cache
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicio8\obj\Debug\net7.0\lenguajesYalgoritmos.AssemblyInfo.cs
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicio8\obj\Debug\net7.0\lenguajesYalgoritmos.csproj.CoreCompileInputs.cache
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicio8\obj\Debug\net7.0\lenguajesYalgoritmos.dll
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicio8\obj\Debug\net7.0\refint\lenguajesYalgoritmos.dll
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicio8\obj\Debug\net7.0\lenguajesYalgoritmos.pdb
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicio8\obj\Debug\net7.0\lenguajesYalgoritmos.genruntimeconfig.cache
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicio8\obj\Debug\net7.0\ref\lenguajesYalgoritmos.dll
