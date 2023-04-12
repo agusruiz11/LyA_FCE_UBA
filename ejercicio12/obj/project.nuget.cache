@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UIRr4JsxEY1RAzt3vrfx+5eC/afP9RumrAM2IujlWJhqU2v4k45P43EgK0NgTO/8BADxe6qQ6ikvDGfmIA1c+A==",
+  "dgSpecHash": "isVGar48+487Vl07Z3MaxpSJyoCGQWC0DOvlQdDQSAWToDu99JAtBB7I3QgtA6tHbrg/fESmEpNw4G4aJfLzmA==",
   "success": true,
-  "projectFilePath": "/home/apache/Documentos/facultad/ejercicio12/ejercicio12.csproj",
-  "expectedPackageFiles": [
-    "/home/apache/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.2/microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512"
-  ],
+  "projectFilePath": "E:\\Este Equipo\\Documents\\1. UBA - FCE\\1er Cuatri 2023\\Lenguajes y Algoritmos\\LyA_FCE_UBA\\ejercicio12\\ejercicio12.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
