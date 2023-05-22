@@ -1,0 +1,15 @@
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\clase9_1704\bin\Debug\net7.0\clase9_1704.exe
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\clase9_1704\bin\Debug\net7.0\clase9_1704.deps.json
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\clase9_1704\bin\Debug\net7.0\clase9_1704.runtimeconfig.json
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\clase9_1704\bin\Debug\net7.0\clase9_1704.dll
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\clase9_1704\bin\Debug\net7.0\clase9_1704.pdb
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\clase9_1704\obj\Debug\net7.0\clase9_1704.csproj.AssemblyReference.cache
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\clase9_1704\obj\Debug\net7.0\clase9_1704.GeneratedMSBuildEditorConfig.editorconfig
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\clase9_1704\obj\Debug\net7.0\clase9_1704.AssemblyInfoInputs.cache
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\clase9_1704\obj\Debug\net7.0\clase9_1704.AssemblyInfo.cs
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\clase9_1704\obj\Debug\net7.0\clase9_1704.csproj.CoreCompileInputs.cache
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\clase9_1704\obj\Debug\net7.0\clase9_1704.dll
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\clase9_1704\obj\Debug\net7.0\refint\clase9_1704.dll
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\clase9_1704\obj\Debug\net7.0\clase9_1704.pdb
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\clase9_1704\obj\Debug\net7.0\clase9_1704.genruntimeconfig.cache
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\clase9_1704\obj\Debug\net7.0\ref\clase9_1704.dll

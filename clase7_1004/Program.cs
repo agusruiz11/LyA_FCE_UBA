@@ -37,7 +37,7 @@ string opcionMenu = "";
 
 do {
     string[] opcionesMenu = new string[] {"1", "2", "3", "4"};
-    opcionMenu = pedirYValidarOpcion("Ingrese 1 para ingresar venta, 2 para ver por cliente, 3 para analisis", opcionesMenu);
+    opcionMenu = pedirYValidarOpcion("Ingrese 1 para ingresar venta, 2 para ver por cliente, 3 para analisis, 4 para finalizar.", opcionesMenu);
     if (opcionMenu=="1") {
         string codigoClienteAIngresar = "";
         string codigoProductoAIngresar = "";
@@ -100,6 +100,10 @@ do {
                     + lineaFacturaCantidad[fila] + "\t"
                     + lineaFacturaPrecio[fila] + "\t"
                     + lineaFacturaImporte[fila] + "\n";
+            }
+            else if (lineaFacturaNumeroFactura[fila] == 0){
+                Console.WriteLine("No hay ventas para este cliente");
+                break;
             }
         }
         Console.WriteLine(listadoItemsDelCliente);

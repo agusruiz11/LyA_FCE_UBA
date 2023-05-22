@@ -1,0 +1,15 @@
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\clase7_1004\bin\Debug\net7.0\clase7_1004.exe
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\clase7_1004\bin\Debug\net7.0\clase7_1004.deps.json
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\clase7_1004\bin\Debug\net7.0\clase7_1004.runtimeconfig.json
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\clase7_1004\bin\Debug\net7.0\clase7_1004.dll
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\clase7_1004\bin\Debug\net7.0\clase7_1004.pdb
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\clase7_1004\obj\Debug\net7.0\clase7_1004.csproj.AssemblyReference.cache
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\clase7_1004\obj\Debug\net7.0\clase7_1004.GeneratedMSBuildEditorConfig.editorconfig
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\clase7_1004\obj\Debug\net7.0\clase7_1004.AssemblyInfoInputs.cache
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\clase7_1004\obj\Debug\net7.0\clase7_1004.AssemblyInfo.cs
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\clase7_1004\obj\Debug\net7.0\clase7_1004.csproj.CoreCompileInputs.cache
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\clase7_1004\obj\Debug\net7.0\clase7_1004.dll
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\clase7_1004\obj\Debug\net7.0\refint\clase7_1004.dll
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\clase7_1004\obj\Debug\net7.0\clase7_1004.pdb
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\clase7_1004\obj\Debug\net7.0\clase7_1004.genruntimeconfig.cache
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\clase7_1004\obj\Debug\net7.0\ref\clase7_1004.dll
