@@ -1,0 +1,15 @@
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicioOrdenesDeCompra_(2004)\bin\Debug\net7.0\ejercicioOrdenesDeCompra_.exe
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicioOrdenesDeCompra_(2004)\bin\Debug\net7.0\ejercicioOrdenesDeCompra_.deps.json
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicioOrdenesDeCompra_(2004)\bin\Debug\net7.0\ejercicioOrdenesDeCompra_.runtimeconfig.json
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicioOrdenesDeCompra_(2004)\bin\Debug\net7.0\ejercicioOrdenesDeCompra_.dll
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicioOrdenesDeCompra_(2004)\bin\Debug\net7.0\ejercicioOrdenesDeCompra_.pdb
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicioOrdenesDeCompra_(2004)\obj\Debug\net7.0\ejercicioOrdenesDeCompra_.csproj.AssemblyReference.cache
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicioOrdenesDeCompra_(2004)\obj\Debug\net7.0\ejercicioOrdenesDeCompra_.GeneratedMSBuildEditorConfig.editorconfig
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicioOrdenesDeCompra_(2004)\obj\Debug\net7.0\ejercicioOrdenesDeCompra_.AssemblyInfoInputs.cache
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicioOrdenesDeCompra_(2004)\obj\Debug\net7.0\ejercicioOrdenesDeCompra_.AssemblyInfo.cs
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicioOrdenesDeCompra_(2004)\obj\Debug\net7.0\ejercicioOrdenesDeCompra_.csproj.CoreCompileInputs.cache
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicioOrdenesDeCompra_(2004)\obj\Debug\net7.0\ejercicioOrdenesDeCompra_.dll
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicioOrdenesDeCompra_(2004)\obj\Debug\net7.0\refint\ejercicioOrdenesDeCompra_.dll
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicioOrdenesDeCompra_(2004)\obj\Debug\net7.0\ejercicioOrdenesDeCompra_.pdb
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicioOrdenesDeCompra_(2004)\obj\Debug\net7.0\ejercicioOrdenesDeCompra_.genruntimeconfig.cache
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicioOrdenesDeCompra_(2004)\obj\Debug\net7.0\ref\ejercicioOrdenesDeCompra_.dll

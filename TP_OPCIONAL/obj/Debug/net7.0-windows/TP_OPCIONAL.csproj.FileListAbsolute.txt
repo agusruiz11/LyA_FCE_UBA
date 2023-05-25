@@ -1,0 +1,5 @@
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\TP_OPCIONAL\obj\Debug\net7.0-windows\TP_OPCIONAL.csproj.AssemblyReference.cache
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\TP_OPCIONAL\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\TP_OPCIONAL\obj\Debug\net7.0-windows\App.g.cs
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\TP_OPCIONAL\obj\Debug\net7.0-windows\TP_OPCIONAL_MarkupCompile.cache
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\TP_OPCIONAL\obj\Debug\net7.0-windows\TP_OPCIONAL_MarkupCompile.lref

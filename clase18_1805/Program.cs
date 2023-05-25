@@ -54,10 +54,14 @@ class AppCanciones {
         //Pedir cancion al usuario
         Cancion aBuscar = null;
         do {
-            aBuscar = validador.pedirCancion("Ingrese una cancion disponible:\n" + listadoDisponibles);
+            string nombre = validador.pedirStringNoVacio("Ingrese nombre de cancion" + listadoDisponibles);
+            // aBuscar = validador.pedirCancion("Ingrese una cancion disponible:\n" + listadoDisponibles);
+            aBuscar = new Cancion(nombre);
         } while (!disponibles.Contains(aBuscar));
         //Validar cancion existente
         //Si existe, sacarla del listado de canciones disponibles y pasarla al de en reproduccion
+        int fila = disponibles.IndexOf(aBuscar);
+        aBuscar = disponibles[fila];
         if (disponibles.Remove(aBuscar)) {
             reproduccion.Add(aBuscar);
             Console.WriteLine("Se ha agregado " + aBuscar + " a la lista de reproduccion");
@@ -120,6 +124,11 @@ internal class Cancion
 
     private string nombre, artista;
     private int anio;
+
+    public Cancion(string nombre)
+    {
+        this.nombre = nombre;
+    }
 
     public Cancion(string nombre, string artista, int anio)
     {

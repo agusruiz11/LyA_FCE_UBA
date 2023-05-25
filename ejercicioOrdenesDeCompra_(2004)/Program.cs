@@ -111,7 +111,7 @@ double[,] itemSubtotal)
            itemSubtotal);
         filaItems = filaItems + 1;
         contador = contador + 1;
-        Console.WriteLine("Desea agrega r otro item? Ingrese SI para agregar otro");
+        Console.WriteLine("Desea agregar otro item? Ingrese SI para agregar otro");
         continuar = pedirStringNoVacio("Ingrese SI para agregar otro item");
         ;
     }
