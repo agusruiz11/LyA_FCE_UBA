@@ -1,0 +1,15 @@
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicioPractica2doParcial\bin\Debug\net7.0\ejercicioPractica2doParcial.exe
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicioPractica2doParcial\bin\Debug\net7.0\ejercicioPractica2doParcial.deps.json
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicioPractica2doParcial\bin\Debug\net7.0\ejercicioPractica2doParcial.runtimeconfig.json
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicioPractica2doParcial\bin\Debug\net7.0\ejercicioPractica2doParcial.dll
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicioPractica2doParcial\bin\Debug\net7.0\ejercicioPractica2doParcial.pdb
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicioPractica2doParcial\obj\Debug\net7.0\ejercicioPractica2doParcial.csproj.AssemblyReference.cache
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicioPractica2doParcial\obj\Debug\net7.0\ejercicioPractica2doParcial.GeneratedMSBuildEditorConfig.editorconfig
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicioPractica2doParcial\obj\Debug\net7.0\ejercicioPractica2doParcial.AssemblyInfoInputs.cache
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicioPractica2doParcial\obj\Debug\net7.0\ejercicioPractica2doParcial.AssemblyInfo.cs
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicioPractica2doParcial\obj\Debug\net7.0\ejercicioPractica2doParcial.csproj.CoreCompileInputs.cache
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicioPractica2doParcial\obj\Debug\net7.0\ejercicioPractica2doParcial.dll
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicioPractica2doParcial\obj\Debug\net7.0\refint\ejercicioPractica2doParcial.dll
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicioPractica2doParcial\obj\Debug\net7.0\ejercicioPractica2doParcial.pdb
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicioPractica2doParcial\obj\Debug\net7.0\ejercicioPractica2doParcial.genruntimeconfig.cache
+E:\Este Equipo\Documents\1. UBA - FCE\1er Cuatri 2023\Lenguajes y Algoritmos\LyA_FCE_UBA\ejercicioPractica2doParcial\obj\Debug\net7.0\ref\ejercicioPractica2doParcial.dll
